@@ -115,8 +115,10 @@ struct SwiftUIView_Previews: PreviewProvider {
             song(name: "nome da musica", path: "tomp3.cc - Katy Perry Dark Horse ft Juicy J", pic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Feu-atleta%2Ftreinos%2Fnoticia%2Fnove-dicas-de-meditacao-para-iniciantes.ghtml&psig=AOvVaw3qvpFNaYtLiGMeOi5hFBpG&ust=1692727111890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj9n4Oq7oADFQAAAAAdAAAAABAE"),
             song(name: "nome da musica", path: "tomp3.cc - Katy Perry Dark Horse ft Juicy J", pic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Feu-atleta%2Ftreinos%2Fnoticia%2Fnove-dicas-de-meditacao-para-iniciantes.ghtml&psig=AOvVaw3qvpFNaYtLiGMeOi5hFBpG&ust=1692727111890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj9n4Oq7oADFQAAAAAdAAAAABAE"),
             song(name: "nome da musica", path: "tomp3.cc - Katy Perry Dark Horse ft Juicy J", pic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Feu-atleta%2Ftreinos%2Fnoticia%2Fnove-dicas-de-meditacao-para-iniciantes.ghtml&psig=AOvVaw3qvpFNaYtLiGMeOi5hFBpG&ust=1692727111890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj9n4Oq7oADFQAAAAAdAAAAABAE"),
-            song(name: "nome da musica", path: "tomp3.cc - Katy Perry Dark Horse ft Juicy J", pic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Feu-atleta%2Ftreinos%2Fnoticia%2Fnove-dicas-de-meditacao-para-iniciantes.ghtml&psig=AOvVaw3qvpFNaYtLiGMeOi5hFBpG&ust=1692727111890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj9n4Oq7oADFQAAAAAdAAAAABAE"),
             song(name: "nome da musica", path: "tomp3.cc - Katy Perry Dark Horse ft Juicy J", pic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fge.globo.com%2Feu-atleta%2Ftreinos%2Fnoticia%2Fnove-dicas-de-meditacao-para-iniciantes.ghtml&psig=AOvVaw3qvpFNaYtLiGMeOi5hFBpG&ust=1692727111890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj9n4Oq7oADFQAAAAAdAAAAABAE")
+      
+            
+            
         ]));
     }
 }
