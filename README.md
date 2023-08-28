@@ -1,65 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Projeto Hacktruck</title>
-<style>
-  .social-button {
-    display: inline-block;
-    margin: 10px;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
+# Projeto Hacktruck
 
-  .linkedin-button {
-    background-color: #0077B5;
-    color: #fff;
-  }
+Este é o projeto final para o hackathon Hacktruck, realizado em parceria com a IBM, pelo Instituto Eldorado e com o apoio de outras empresas. O projeto envolveu um processo seletivo e um curso EAD. Após 5 semanas de estudos presenciais, onde exploramos diversas tecnologias e enfrentamos desafios diários como parte da metodologia ativa, chegamos à última semana do hackathon. Nessa última etapa, fomos desafiados a criar uma solução usando as tecnologias que aprendemos. Foi então que o nosso grupo de trabalho deu vida ao "Psycoduck", um aplicativo com o objetivo de auxiliar pessoas que enfrentam ansiedade e outras síndromes psicológicas. Além disso, consideramos a possibilidade de oferecer acompanhamento psicológico. Para o desenvolvimento do aplicativo, utilizamos SwiftUI, bibliotecas para áudio, Node-RED para fluxo de dados, consumo de APIs REST e o banco de dados Cloudant, fornecido pela IBM.
 
-  .linkedin-button:hover {
-    background-color: #005F8E;
-  }
+## Tecnologias Utilizadas
 
-  .youtube-button {
-    background-color: #FF0000;
-    color: #fff;
-  }
+- SwiftUI: Framework de IU para o desenvolvimento de interfaces de usuário.
+- Bibliotecas para Áudio: Utilizadas para recursos de áudio no aplicativo.
+- Node-RED: Plataforma de código aberto para criar fluxos de dados.
+- APIs REST: Utilizadas para interações com serviços externos.
+- Banco de Dados Cloudant: Banco de dados fornecido pela IBM para armazenamento de dados.
 
-  .youtube-button:hover {
-    background-color: #CC0000;
-  }
-</style>
-</head>
-<body>
-<p>
-  Projeto final para o projeto hacktruck, um hackthon, feito em parceria com IBM, pelo Instituto Eudorado e com apoio de outras empresas. O projeto teve um processo seletivo e curso Ead. Depois 5 semanas de estudos presenciais, em que estudamos diversas tecnologias e tínhamos desafios diários, que faziam parte da metodologia ativa. Ao final, na última semana, fomos desafiados a desenvolver alguma solução, usando as tecnologias que aprendemos. Foi então que eu e meu grupo demos vida ao "psycoduck", um aplicativo que tem como objetivo ser uma ferramenta de auxílio a pessoas com ansiedade e outras síndromes psicológicas, também levamos em conta a possibilidade de servir com acompanhamento psicológico. No seu desenvolvimento, usamos SwiftUI, junto com bibliotecas para uso de Áudio, Node-red para fluxo de dados, consumo de Api Rest e banco de dados claudant, fornecido pela IBM.
-</p>
-<a href="https://www.linkedin.com/in/perfil1" target="_blank" rel="noopener noreferrer" class="social-button linkedin-button">
-  LinkedIn 1
-</a>
-<a href="https://www.linkedin.com/in/perfil2" target="_blank" rel="noopener noreferrer" class="social-button linkedin-button">
-  LinkedIn 2
-</a>
-<a href="https://www.linkedin.com/in/perfil3" target="_blank" rel="noopener noreferrer" class="social-button linkedin-button">
-  LinkedIn 3
-</a>
-<a href="https://www.linkedin.com/in/perfil4" target="_blank" rel="noopener noreferrer" class="social-button linkedin-button">
-  LinkedIn 4
-</a>
-<a href="https://www.linkedin.com/in/perfil5" target="_blank" rel="noopener noreferrer" class="social-button linkedin-button">
-  LinkedIn 5
-</a>
-<a href="https://www.youtube.com/seucanal" target="_blank" rel="noopener noreferrer" class="social-button youtube-button">
-  YouTube
-</a>
-</body>
-</html>
+## Integrantes do Grupo
+
+- [Davi Rocha](https://www.linkedin.com/in/davi-rocha-negocio/)
+- [Giovanna Guzzardi](https://www.linkedin.com/in/giovanna-guzzardi-707b6426b/)
+- [Breno Palma](https://www.linkedin.com/in/breno-palma-768a3a230/)
+- [Lousane Rodrigues](https://www.linkedin.com/in/lousane-rodrigues/)
+
+## Vídeo do Projeto
+
+Assista ao vídeo do nosso projeto no [YouTube](https://www.youtube.com/watch?v=e41YKljGMFA).
+
 
